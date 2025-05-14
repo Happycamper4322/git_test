@@ -1,1 +1,2 @@
 It is a brave new world
+to access terminal on VSC use "Ctrl + `"
